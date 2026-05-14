@@ -45,6 +45,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **[Your Name]**, also known as **[Your Alias/Brand]**. I'm a data professional and passionate Analytics Engineer on a mission to share knowledge and make working with data enjoyable and engaging! 
+Hi there! I'm **Vinícius Barros**. I'm a data professional and passionate Analytics Engineer on a mission to share knowledge and make working with data enjoyable and engaging! 
 
 Connect with me on [LinkedIn](www.linkedin.com/in/vinícius-barros-da-silva-5418b8286) or check out my other projects.

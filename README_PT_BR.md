@@ -45,6 +45,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Você é livre para
 
 ## 🌟 Sobre Mim
 
-Olá! Meu nome é **Vinícius Barros**. Sou físico, pesquisador e, agora, profissional emssional na área de dados com foco em Engenharia de Analytics, com a missão de transformar dados complexos em soluções claras e ajudar negócios a tomarem decisões mais inteligentes!
+Olá! Meu nome é **Vinícius Barros**. Sou físico, pesquisador e, agora, profissional na área de dados com foco em Engenharia de Analytics. Meu propósito é transformar dados complexos em soluções claras e ajudar negócios a tomarem decisões mais inteligentes!
 
 Conecte-se comigo no [LinkedIn](www.linkedin.com/in/vinícius-barros-da-silva-5418b8286) ou confira meus outros projetos.
